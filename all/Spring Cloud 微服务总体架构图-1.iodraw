@@ -202,14 +202,8 @@
         <mxCell id="JeMkGQCacrqF0g2m2FVA-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=22.43;direction=south;notch=0;strokeWidth=1;fillColor=#D4D4D4;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1185" y="815" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JeMkGQCacrqF0g2m2FVA-27" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="90" width="220" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="JeMkGQCacrqF0g2m2FVA-28" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="JeMkGQCacrqF0g2m2FVA-27">
-          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="JeMkGQCacrqF0g2m2FVA-29" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="JeMkGQCacrqF0g2m2FVA-27">
-          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        <mxCell id="JeMkGQCacrqF0g2m2FVA-30" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" vertex="1" parent="1">
+          <mxGeometry x="768" y="101" width="50" height="35.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
