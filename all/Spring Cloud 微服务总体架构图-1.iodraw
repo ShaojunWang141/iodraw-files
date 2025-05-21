@@ -107,7 +107,7 @@
           <mxGeometry x="1160" y="665.5" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-275" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="985" y="865" width="120" height="80" as="geometry" />
+          <mxGeometry x="1130" y="860" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-276" value="Git" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-275" vertex="1">
           <mxGeometry x="60" width="60" height="80" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JeMkGQCacrqF0g2m2FVA-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=22.43;direction=south;notch=0;strokeWidth=1;fillColor=#D4D4D4;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="813" width="40" height="40" as="geometry" />
+          <mxGeometry x="1185" y="815" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
