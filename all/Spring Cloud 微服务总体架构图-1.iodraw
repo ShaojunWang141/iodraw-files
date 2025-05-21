@@ -118,17 +118,8 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-277" value="Git" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-275" vertex="1">
           <mxGeometry width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-278" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="789" y="865" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-279" value="MQ" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-278" vertex="1">
-          <mxGeometry x="60" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-280" value="MQ" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-278" vertex="1">
-          <mxGeometry width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-284" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="396" y="865" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="865" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-285" value="MySQL&lt;br&gt;DB" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-284" vertex="1">
           <mxGeometry x="60" width="60" height="80" as="geometry" />
