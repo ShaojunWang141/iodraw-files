@@ -211,8 +211,8 @@
         <mxCell id="JeMkGQCacrqF0g2m2FVA-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="622" y="101" width="113" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JeMkGQCacrqF0g2m2FVA-9" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;用户服务&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="180" width="90" height="40" as="geometry" />
+        <mxCell id="JeMkGQCacrqF0g2m2FVA-9" value="&lt;span style=&quot;font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;用户端&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="801.5" y="106" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
