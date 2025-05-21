@@ -26,7 +26,7 @@
           <mxGeometry x="90" y="855" width="1180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-246" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="240" y="455" width="890" height="240" as="geometry" />
+          <mxGeometry x="240" y="455" width="870" height="240" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-247" value="业务微服务集群" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="264" y="474.5" width="200" height="200" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="762.5" y="509" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-263" value="Zuul&lt;br&gt;服务网关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="357" width="690" height="52" as="geometry" />
+          <mxGeometry x="270" y="357" width="850" height="52" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-265" value="Nginx&lt;br&gt;负载均衡" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="371" y="232" width="130" height="46" as="geometry" />
