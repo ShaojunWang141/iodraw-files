@@ -95,7 +95,7 @@
           <mxGeometry x="622" y="740" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-271" value="Spring&amp;nbsp;Cloud&amp;nbsp;Stream&lt;br&gt;数据流操作" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="815" y="740" width="170" height="60" as="geometry" />
+          <mxGeometry x="910" y="740" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-272" value="consul&lt;br&gt;服务治理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1160" y="400" width="90" height="90" as="geometry" />
