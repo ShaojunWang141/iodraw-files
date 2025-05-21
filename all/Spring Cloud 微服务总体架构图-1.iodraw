@@ -127,15 +127,6 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-280" value="MQ" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-278" vertex="1">
           <mxGeometry width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-281" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="593" y="865" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-282" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-281" vertex="1">
-          <mxGeometry x="60" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-283" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-281" vertex="1">
-          <mxGeometry width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-284" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="396" y="865" width="120" height="80" as="geometry" />
         </mxCell>
