@@ -133,7 +133,7 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-288" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-287" vertex="1">
           <mxGeometry width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-289" value="HDFS" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-287" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-289" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-287" vertex="1">
           <mxGeometry x="60" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-290" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=14;fontColor=#FFFFFF;width=18.13953488372093;startSize=2.988571428571429;endSize=2.988571428571429;exitX=0.166;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.166;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#D4D4D4;" parent="1" source="3zW76zUc4abTS6v-kVaw-246" target="3zW76zUc4abTS6v-kVaw-244" edge="1">
