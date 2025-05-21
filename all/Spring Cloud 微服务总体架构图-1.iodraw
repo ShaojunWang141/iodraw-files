@@ -14,7 +14,7 @@
           <mxGeometry x="358" y="81" width="520" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-242" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="220" y="725" width="890" height="90" as="geometry" />
+          <mxGeometry x="240" y="725" width="870" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-243" value="&lt;br&gt;治理&amp;amp;配置" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1150" y="345" width="110" height="470" as="geometry" />
@@ -86,13 +86,13 @@
           <mxGeometry x="727" y="232" width="130" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-268" value="Spring&amp;nbsp;Cloud&amp;nbsp;Bus&lt;br&gt;消息总线" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="235" y="740" width="170" height="60" as="geometry" />
+          <mxGeometry x="294" y="740" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-269" value="Spring&amp;nbsp;Cloud&amp;nbsp;Task&lt;br&gt;任务调度" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="428" y="740" width="170" height="60" as="geometry" />
+          <mxGeometry x="500" y="740" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-270" value="Spring&amp;nbsp;Cloud&amp;nbsp;Data&amp;nbsp;Flow&lt;br&gt;大数据操作" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="622" y="740" width="170" height="60" as="geometry" />
+          <mxGeometry x="708" y="740" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-271" value="Spring&amp;nbsp;Cloud&amp;nbsp;Stream&lt;br&gt;数据流操作" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="910" y="740" width="170" height="60" as="geometry" />
