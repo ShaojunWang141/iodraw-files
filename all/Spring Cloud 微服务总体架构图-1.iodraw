@@ -37,9 +37,6 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-250" value="Sleuth&lt;br&gt;链路跟踪" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="100" y="419.5" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-251" value="Turbine&lt;br&gt;集群监控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="100" y="542" width="90" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-252" value="Hystrix&lt;br&gt;容错保护" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="100" y="665.5" width="90" height="90" as="geometry" />
         </mxCell>
@@ -71,7 +68,7 @@
           <mxGeometry x="762.5" y="509" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-263" value="Zuul&lt;br&gt;服务网关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="509" y="357" width="210" height="52" as="geometry" />
+          <mxGeometry x="270" y="357" width="690" height="52" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-265" value="Nginx&lt;br&gt;负载均衡" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="371" y="232" width="130" height="46" as="geometry" />
