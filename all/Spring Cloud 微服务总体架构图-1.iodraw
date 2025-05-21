@@ -14,13 +14,13 @@
           <mxGeometry x="358" y="81" width="520" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-242" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="220" y="725" width="910" height="90" as="geometry" />
+          <mxGeometry x="220" y="725" width="890" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-243" value="&lt;br&gt;治理&amp;amp;配置" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1150" y="345" width="110" height="470" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-244" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="236.5" y="343" width="893.5" height="80" as="geometry" />
+          <mxGeometry x="236.5" y="343" width="873.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-245" value="　数据层" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;align=left;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="90" y="855" width="1180" height="100" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="762.5" y="509" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-263" value="Zuul&lt;br&gt;服务网关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="357" width="850" height="52" as="geometry" />
+          <mxGeometry x="270" y="357" width="820" height="52" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-265" value="Nginx&lt;br&gt;负载均衡" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="371" y="232" width="130" height="46" as="geometry" />
