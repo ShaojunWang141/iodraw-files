@@ -29,7 +29,7 @@
           <mxGeometry x="236.5" y="343" width="873.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-245" value="Data layer（example）" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;align=left;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="90" y="855" width="1180" height="100" as="geometry" />
+          <mxGeometry x="85" y="860" width="1180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-247" value="Clusters of business microservices" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="475" width="210" height="200" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="748" y="820" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-297" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=16.13;direction=south;notch=0;strokeWidth=1;fillColor=#D4D4D4;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="594.5" y="695" width="40" height="30" as="geometry" />
+          <mxGeometry x="748" y="695.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-298" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=16.84;direction=south;notch=0;strokeWidth=1;fillColor=#D4D4D4;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="660" y="424" width="40" height="31" as="geometry" />
