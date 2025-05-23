@@ -106,9 +106,6 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-284" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="560" y="865" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-285" value="MySQL&lt;br&gt;DB" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-284" vertex="1">
-          <mxGeometry x="60" width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-286" value="MySQL&lt;br&gt;DB" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-284" vertex="1">
           <mxGeometry width="60" height="80" as="geometry" />
         </mxCell>
@@ -213,6 +210,9 @@
         </mxCell>
         <mxCell id="346E-kipDIuBJoTvYKRK-15" value="&lt;span style=&quot;font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Load Blancer Layer&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="890" y="235" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3zW76zUc4abTS6v-kVaw-285" value="MySQL&lt;br&gt;DB" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="767" y="865" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
