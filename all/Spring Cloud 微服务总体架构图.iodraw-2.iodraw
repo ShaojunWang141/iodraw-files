@@ -202,6 +202,9 @@
         <mxCell id="346E-kipDIuBJoTvYKRK-9" value="Microservices layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="560" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="346E-kipDIuBJoTvYKRK-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
