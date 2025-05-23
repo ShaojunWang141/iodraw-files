@@ -13,7 +13,7 @@
         <mxCell id="JeMkGQCacrqF0g2m2FVA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="358" y="215" width="520" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-240" value="&lt;br style=&quot;font-size: 14px;&quot;&gt;监控&amp;amp;保护" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-240" value="Monitoring &amp;amp; Protection" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="90" y="343" width="110" height="470" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-241" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
@@ -113,7 +113,7 @@
           <mxGeometry x="60" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-287" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="270" y="865" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-288" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-287" vertex="1">
           <mxGeometry width="60" height="80" as="geometry" />
