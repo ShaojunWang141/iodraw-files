@@ -40,7 +40,7 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-250" value="&lt;div&gt;Log collection&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="100" y="419.5" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-252" value="日志处理系统&lt;div&gt;log treatment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-252" value="&lt;div&gt;log treatment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="100" y="665.5" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-253" value="库存服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
