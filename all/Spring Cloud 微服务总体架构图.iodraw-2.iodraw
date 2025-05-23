@@ -85,10 +85,10 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-268" value="Spring&amp;nbsp;Cloud&amp;nbsp;Bus&lt;br&gt;消息总线" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="294" y="740" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-269" value="Spring&amp;nbsp;Cloud&amp;nbsp;Task&lt;br&gt;任务调度" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-269" value="Spring&amp;nbsp;Cloud&amp;nbsp;Task" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="500" y="740" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-270" value="Spring&amp;nbsp;Cloud&amp;nbsp;Data&amp;nbsp;Flow&lt;br&gt;大数据操作" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-270" value="Spring&amp;nbsp;Cloud&amp;nbsp;Data&amp;nbsp;Flow" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="708" y="740" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-271" value="Spring&amp;nbsp;Cloud&amp;nbsp;Stream" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
