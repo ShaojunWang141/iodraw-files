@@ -208,7 +208,7 @@
         <mxCell id="JeMkGQCacrqF0g2m2FVA-33" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="608" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="346E-kipDIuBJoTvYKRK-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="346E-kipDIuBJoTvYKRK-1" value="Maintainer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="570" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
