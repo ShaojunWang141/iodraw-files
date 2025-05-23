@@ -32,7 +32,7 @@
           <mxGeometry x="264" y="474.5" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-248" value="管理端微服务集群" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="506" y="473.5" width="200" height="200" as="geometry" />
+          <mxGeometry x="571.5" y="473.5" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="JeMkGQCacrqF0g2m2FVA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3zW76zUc4abTS6v-kVaw-250" target="3zW76zUc4abTS6v-kVaw-252" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -56,10 +56,10 @@
           <mxGeometry x="521.5" y="618.5" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-257" value="订单服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="520.5" y="564" width="170" height="46" as="geometry" />
+          <mxGeometry x="586.5" y="564" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-258" value="后台管理服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="521.5" y="509" width="170" height="46" as="geometry" />
+          <mxGeometry x="586.5" y="509" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-263" value="Zuul Service Gateway" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="357" width="820" height="52" as="geometry" />
