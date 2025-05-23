@@ -205,8 +205,8 @@
         <mxCell id="346E-kipDIuBJoTvYKRK-10" value="API Gateway Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="346E-kipDIuBJoTvYKRK-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="310" y="355" width="110" height="45" as="geometry" />
+        <mxCell id="346E-kipDIuBJoTvYKRK-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360.5" width="110" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
