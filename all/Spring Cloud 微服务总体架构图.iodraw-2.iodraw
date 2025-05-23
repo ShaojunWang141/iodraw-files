@@ -1,9 +1,12 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="piCVT0GnAEzMvJrsj3AD" name="Page-1">
-    <mxGraphModel dx="693" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1427" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="346E-kipDIuBJoTvYKRK-6" value="Expand the business microservice cluster" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="820" y="475" width="200" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-246" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="236.5" y="455" width="870" height="240" as="geometry" />
         </mxCell>
@@ -188,13 +191,10 @@
           <mxGeometry x="30" y="570" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="346E-kipDIuBJoTvYKRK-4" value="Service A&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="836" y="509" width="170" height="46" as="geometry" />
+          <mxGeometry x="835" y="518" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="346E-kipDIuBJoTvYKRK-5" value="Service B&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="835" y="564" width="170" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="346E-kipDIuBJoTvYKRK-6" value="Expand the business microservice cluster" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="820" y="475" width="200" height="200" as="geometry" />
+          <mxGeometry x="835" y="570" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="346E-kipDIuBJoTvYKRK-7" value="Service C&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="835" y="623" width="170" height="46" as="geometry" />
