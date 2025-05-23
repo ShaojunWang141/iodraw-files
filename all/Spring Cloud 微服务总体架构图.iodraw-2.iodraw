@@ -53,7 +53,7 @@
           <mxGeometry x="351" y="618.5" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-256" value="其他服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="580" y="618.5" width="170" height="46" as="geometry" />
+          <mxGeometry x="586.5" y="618.5" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-257" value="订单服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="586.5" y="564" width="170" height="46" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry x="836" y="618.5" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="346E-kipDIuBJoTvYKRK-9" value="Microservices layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="234" y="555" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
