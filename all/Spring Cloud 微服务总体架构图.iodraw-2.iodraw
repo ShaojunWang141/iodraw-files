@@ -73,16 +73,16 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-261" value="Service A&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="762.5" y="509" width="170" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-263" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-263" value="Zuul Service Gateway" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="357" width="820" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-265" value="Nginx&lt;br&gt;负载均衡" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-265" value="Ngix load balancing" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="371" y="232" width="130" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-266" value="Ngix load balancing" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="549" y="232" width="130" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-267" value="Nginx&lt;br&gt;负载均衡" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-267" value="Ngix load balancing" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="727" y="232" width="130" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-268" value="Spring&amp;nbsp;Cloud&amp;nbsp;Bus" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
