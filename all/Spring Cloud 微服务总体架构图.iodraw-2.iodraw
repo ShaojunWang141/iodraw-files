@@ -88,7 +88,7 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-272" value="consul&lt;br&gt;服务治理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1160" y="400" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-273" value="Eureka&lt;br&gt;服务治理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-273" value="密钥管理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1160" y="533" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-274" value="Config&lt;br&gt;配置管理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
