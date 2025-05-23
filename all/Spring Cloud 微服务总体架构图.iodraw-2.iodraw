@@ -22,7 +22,7 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-244" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="236.5" y="343" width="873.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-245" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(226, 226, 229); font-family: &amp;quot;Google Sans Text&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(30, 30, 30);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;Data Layer&lt;/span&gt;&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;align=left;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-245" value="　数据层" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;align=left;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="90" y="855" width="1180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-246" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
