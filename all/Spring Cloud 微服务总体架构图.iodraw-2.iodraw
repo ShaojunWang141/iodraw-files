@@ -31,7 +31,7 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-247" value="Clusters of business microservices" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="475" width="210" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-248" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-248" value="Cluster of manager-side microservices" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.5" y="473.5" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="JeMkGQCacrqF0g2m2FVA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3zW76zUc4abTS6v-kVaw-250" target="3zW76zUc4abTS6v-kVaw-252" edge="1">
@@ -53,13 +53,13 @@
           <mxGeometry x="360" y="623" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-256" value="其他服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="586.5" y="618.5" width="170" height="46" as="geometry" />
+          <mxGeometry x="586.5" y="623" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-257" value="订单服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="586.5" y="564" width="170" height="46" as="geometry" />
+          <mxGeometry x="586.5" y="570" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-258" value="后台管理服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="586.5" y="509" width="170" height="46" as="geometry" />
+          <mxGeometry x="586.5" y="518" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-265" value="Ngix load balancing" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="371" y="232" width="130" height="46" as="geometry" />
@@ -193,7 +193,7 @@
         <mxCell id="346E-kipDIuBJoTvYKRK-5" value="Service B&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="835" y="564" width="170" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="346E-kipDIuBJoTvYKRK-6" value="拓展业务微服务集群" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="346E-kipDIuBJoTvYKRK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="820" y="480" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="346E-kipDIuBJoTvYKRK-7" value="Service C&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
